@@ -1,6 +1,7 @@
 # Android-WeeklyTasks
 Splash
-![image](https://github.com/CAMP09/Android-WeeklyTasks/assets/64702535/9e4d6456-28be-488c-a507-f8dd7bd0e986)
+![Splash](https://github.com/CAMP09/Android-WeeklyTasks/assets/64702535/1f8a679c-a75d-4634-b41c-22de80b78c12)
+
 
 Activity_Login
 
